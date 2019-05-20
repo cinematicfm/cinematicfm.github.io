@@ -10,7 +10,7 @@ actors:
 author: alice
 description: 映画について話します。
 description_long: MoyuruとSalvadorが映画について話すポッドキャスト
-email: info@example.com
+email:
 exclude:
   - docker
   - docker-compose.yml
@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics:
 hashtag: cinematicfm
-itunes_podcast_url:
+itunes_podcast_url: https://podcasts.apple.com/jp/podcast/cinematic-fm/id1464481255
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
