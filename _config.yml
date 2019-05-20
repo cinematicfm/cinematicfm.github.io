@@ -10,7 +10,7 @@ actors:
 author: alice
 description: 映画について話します。
 description_long: MoyuruとSalvadorが映画について話すポッドキャスト
-email:
+email: lvla0805@gmail.com
 exclude:
   - docker
   - docker-compose.yml
