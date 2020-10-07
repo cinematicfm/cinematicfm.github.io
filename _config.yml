@@ -11,6 +11,10 @@ actors:
     image_url: /images/actors/mami.png
     name: Mami
     url: https://cinematic.fm
+  yusuke:
+    image_url: /images/actors/yusuke.png
+    name: Yusuke
+    url: https://twitter.com/__yu81__
 author: Cinematic.fm
 description: 映画について話します。
 description_long: MoyuruとSalvadorが映画について話すポッドキャスト
