@@ -30,7 +30,7 @@ exclude:
 google_analytics: UA-128570244-2
 hashtag: cinematicfm
 itunes_podcast_url: https://podcasts.apple.com/jp/podcast/cinematic-fm/id1464481255
-keywords: Cinema, Movie, Film
+keywords: Cinema,Movie,Film
 language: ja
 markdown: kramdown
 permalink: /episode/:title
